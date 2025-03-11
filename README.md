@@ -6,7 +6,7 @@ functionality.
 ## Project Overview
 
 This project is a chatbot application built using Django and Django Rest Framework. It includes user authentication
-using JWT (JSON Web Tokens) and provides endpoints for user registration, login, logout, and chat interactions.
+using JWT (JSON Web Tokens) and provides endpoints for user registration, login, and chat interactions.
 
 ## Setup Instructions
 
